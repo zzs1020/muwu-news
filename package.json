@@ -33,7 +33,7 @@
         "react": "^16.8.1",
         "react-dom": "^16.8.1",
         "react-dragula": "^1.1.17",
-        "react-redux": "^6.0.0",
+        "react-redux": "^7.0.0",
         "react-router-dom": "^4.3.1",
         "react-scripts": "2.1.5",
         "react-spring": "^8.0.5",
