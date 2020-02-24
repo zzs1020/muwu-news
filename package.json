@@ -39,7 +39,7 @@
         "react-spring": "^8.0.5",
         "redux": "^4.0.1",
         "redux-saga": "^1.0.1",
-        "uuid": "^3.3.2"
+        "uuid": "^7.0.0"
     },
     "devDependencies": {
         "@types/jest": "^24.0.0",
